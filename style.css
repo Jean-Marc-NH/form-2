@@ -1,0 +1,39 @@
+body{
+    background: radial-gradient(circle, rgb(20, 253, 200) 0%, rgb(63, 174, 109) 100%);
+}
+form{
+    background-color: white;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -ms-border-radius: 10px ;
+    -o-border-radius: 10px ;
+}
+
+form input{
+    margin: 10px 0;
+}
+
+form div{
+    margin: 10px;
+}
+
+form .label{
+    margin-top: 30px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}

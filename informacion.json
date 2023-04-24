@@ -1,0 +1,8 @@
+{
+    "paises" : ["Peru", "Argentina", "Francia", "Tailandia", "EEUU"],
+    "ocupacion": ["Fullstack", "Front-end", "back-end"],
+    "lenguajes": [["HTML", "CSS", "SCSS", "JS"],["Python", "PHP", "Flask", "Django"],["HTML", "CSS", "SCSS", "JS","Python", "PHP", "Flask", "Django"]],
+    "aptitudes": ["Trabajo en equipo", "lider", "Otro"],
+    "exp": ["Ninguna", "1-3 años", "4-8 años", "más"],
+    "forma": ["Colegio inconcluso", "Colegio", "Instituto", "Universidad"]
+}   
