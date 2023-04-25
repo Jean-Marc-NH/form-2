@@ -39,7 +39,7 @@ ocupacion.addEventListener("change", (e)=> {
             lenguajes(0,i);
         }
     }
-    else if(ocupacion.value == "Back-end"){
+    else if(ocupacion.value == "back-end"){
         
 
         for(let i = 0; i < 4; i++)
